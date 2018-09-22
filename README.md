@@ -1,6 +1,6 @@
 # bioinfoProgAssignment
 
-All code and documents are present in code folder, and the results folder contains the output files.
+Python file contains the code for the fastQ generator, and .gz compressed files are the output files.
 
 Summary of result
 Total number of reads :100000
